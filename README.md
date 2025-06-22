@@ -49,7 +49,7 @@
 
 ## 🔗 冒険日誌への道標 (Link to the Journal)
 
-*   **[砂漠の旅人 | Tabito's Journey](https://sabakunotabito.hatenablog.com/)**
+*   **[砂漠の旅人 | Tabito's Voyage](https://sabakunotabito.hatenablog.com/)**
 
 ---
 
