@@ -2,7 +2,7 @@
 
 > **この羊皮紙は、英雄譚の裏側にあった、血と汗と涙の物語だ。**
 
-冒険日誌「[砂漠の旅人](https://sabakunotabito.hatenablog.com/)」で語られた、WPFアプリケーション **「[RedfishViewer](https://github.com/sabakunotabito/RedfishViewer)」**。
+冒険日誌「[たびとの旅路](https://tabitos-voyage.com/)」で語られた、WPFアプリケーション **「[RedfishViewer](https://github.com/tabitos-atelier/RedfishViewer)」**。
 その完成された「魂の鎧」は、いかにして鍛え上げられたのか。
 
 ここには、私がMVVMフレームワーク **「Prism」** という、あまりに難解な魔法体系の習得に挑み、七転八倒の末にその秘儀を会得するまでの、全ての思考の軌跡が、生々しい傷跡と共に刻まれている。
@@ -28,14 +28,14 @@
 
 この冒険の全ては、ブログの羊皮紙に記されている。
 
-*   **前編：[魂の鎧"RedfishViewer"錬金術 ～第一章：降臨の儀～](https://sabakunotabito.hatenablog.com/entry/2023/12/31/010156)**
-*   **後編：[魂の鎧"RedfishViewer"錬金術 ～第二章：魂の解体新書～](https://sabakunotabito.hatenablog.com/entry/2024/01/28/221950)**
+*   **前編：[魂の鎧"RedfishViewer"錬金術 ～第一章：降臨の儀～](https://tabitos-voyage.com/entry/2023/12/31/232025)**
+*   **後編：[魂の鎧"RedfishViewer"錬金術 ～第二章：魂の解体新書～](https://tabitos-voyage.com/entry/2024/01/28/214023)**
 
 ## 🔗 神器の在り処
 
 鍛え上げられた「魂の鎧」そのものは、以下のアトリエでその輝きを放っている。
 
-*   **[GitHub - sabakunotabito/RedfishViewer](https://github.com/sabakunotabito/RedfishViewer)**
+*   **[GitHub - RedfishViewer](https://github.com/tabitos-atelier/RedfishViewer)**
 
 ---
 
@@ -51,7 +51,7 @@
 
 この新たな呪いを解き明かすための旅は、今も続いている。その最新の戦いの記録は、別の羊皮紙に詳しく記しておいた。これからPrismの山に挑む者は、この生々しい傷跡も見ておくといい。
 
-*   **[魂の鎧"RedfishViewer"錬金術 ～外伝：呪われしNuGet更新との戦い～](https://sabakunotabito.hatenablog.com/entry/2025/05/27/021405)**
+*   **[魂の鎧"RedfishViewer"錬金術 ～外伝：呪われしNuGet更新との戦い～](https://tabitos-voyage.com/entry/2025/05/27/021405)**
 
 ### **【未来の設計図】幻影を錬成する、究極の秘儀**
 
